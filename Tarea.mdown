@@ -1,0 +1,16 @@
+##Tarea 1 Nelson Abarca
+
+**Hipotesis: La función de ordenamient "BubbleSort" será más lento que la función "SelectionSort" en todos los casos**
+
+**Ambas funciones ordenaran las listas del menor elemento al mayor elemento**
+**Se utilizara los parametros 1000, 5000, 10000 **
+
+**Para el BubbleSort con el parametro de 1000 duro aproximadamente 1 segundo**
+**Para el BubbleSort con el parametro de 5000 duro aproximadamente 6 segundos**
+**Para el BubbleSort con el parametro de 10000 duro aproximadamente 23 segundos**
+
+**Para el SelectionSort con el parametro de 1000 duro aproximadamente menos de un segundo**
+**Para el SelectionSort con el parametro de 5000 duro aproximadamente 2.5 segundo**
+**Para el SelectionSortt con el parametro de 10000 duro aproximadamente 7 segundos**
+
+**Como conclusión se demuestra que el bubblsort es efectivamente más lento**
